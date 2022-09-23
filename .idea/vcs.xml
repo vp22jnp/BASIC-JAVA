@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/com" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/com/Bridgelabday1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/com/bridgelab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/com/bridgelabDay3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/com/bridgelabday2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/com/bridgelabday4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/com/bridgelabday6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/com/com" vcs="Git" />
+  </component>
+</project>
